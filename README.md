@@ -28,12 +28,10 @@ pip install -r requirements.txt
 5. Set Up Your API Key
 Add a .env File:
 In the project root directory, create a .env file and add your Google AI Studio API key like this:
-
 env
 Copy code
 GOOGLE_API_KEY=your_api_key_here
 Alternatively, set up the key in Streamlit Cloud secrets if hosting online.
-
 6. Run the Application
 bash
 Copy code
@@ -48,7 +46,7 @@ Configure the app's entry point to gemini_multimodal_chatbot.py.
 Securely add your GOOGLE_API_KEY in the Secrets section.
 Deploy the app and share the generated URL with others!
 📚 Project Structure
-bash
+plaintext
 Copy code
 multimodal-chatbot/
 │
