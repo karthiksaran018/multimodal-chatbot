@@ -24,7 +24,6 @@ Try the live demo here: [Multimodal Chatbot](https://multimodal-chatbot.streamli
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/karthiksaran018/multimodal-chatbot.git
-
 2. Navigate to the Project Directory
 bash
 Copy code
