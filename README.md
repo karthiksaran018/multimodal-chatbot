@@ -18,9 +18,9 @@ Try the live demo here: [Multimodal Chatbot](https://multimodal-chatbot.streamli
 ### Clone the Repository
 ```bash
 git clone https://github.com/karthiksaran018/multimodal-chatbot.git
-Navigate to the Project Directory
-bash
-Copy code
+
+### Navigate to the Project Directory
+```bash
 cd multimodal-chatbot
 Create a Virtual Environment and Activate It
 bash
