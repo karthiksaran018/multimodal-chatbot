@@ -6,7 +6,7 @@ from PIL import Image
 
 # Load environment variables
 load_dotenv()
-api_key = os.getenv("GOOGLE_API_KEY")
+api_key = st.secrets["GOOGLE_API_KEY"]
 
 # Verify API Key
 if not api_key:
