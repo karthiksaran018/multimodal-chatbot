@@ -55,12 +55,19 @@ Deploy the app and share the generated URL with others!
 ## 📚 Project Structure
 
 multimodal-chatbot/
+
 │
+
 ├── gemini_multimodal_chatbot.py  # Main Streamlit app
+
 ├── requirements.txt             # Required Python libraries
+
 ├── .env                         # Stores Google API Key (not committed)
+
 ├── README.md                    # Project documentation
+
 └── venv/                        # Virtual environment directory (optional)
+
 
 ## 🌟 Credits
 This project was inspired by examples from Google's Gemini Flash API and has been customized for better UI and functionality.
