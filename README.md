@@ -1,4 +1,4 @@
-## ⚡️ Multimodal Chatbot with Gemini Flash
+# ⚡️ Multimodal Chatbot with Gemini Flash
 
 This repository hosts a Streamlit application showcasing a multimodal chatbot using Google's Gemini Flash model. The chatbot supports both text and image inputs, providing intelligent and fast responses.
 
