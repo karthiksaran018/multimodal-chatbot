@@ -26,3 +26,6 @@ Try the live demo here: [Multimodal Chatbot](https://multimodal-chatbot.streamli
 git clone https://github.com/karthiksaran018/multimodal-chatbot.git
 
 ### **2. Navigate to the Project Directory**
+
+```bash
+cd multimodal-chatbot
